@@ -1,1 +1,2 @@
 # Project-1
+I'm excited to share my new personal assistant project, Coco! Built with Python and leveraging libraries like speech_recognition, webbrowser, requests, gTTS, and google-generativeai, Coco can open websites, play music, fetch news, and even provide AI-powered responses. I'm using NewsAPI and Google's Gemini API for some of the functionalities. Check out the code and let me know what you think! #python #ai #voiceassistant #gemini #project #linkedin

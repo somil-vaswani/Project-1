@@ -7,8 +7,8 @@ import os
 import google.generativeai as genai
 
 # Coco - A simple AI assistant
-newsapi = "cd4adc73d54644bfa816f3b4fbfa6336"            # Your NewsAPI key
-googleapi="AIzaSyCyBNWOE89rUh7a8CiHu_lKCV6TMIGbfzQ"     # Your Google Generative AI API key
+newsapi = "<your key>"            # Your NewsAPI key
+googleapi="<your key>"      # Your Google Generative AI API key
 
 def songlink(song):
     if("wolf" in song.lower()):
